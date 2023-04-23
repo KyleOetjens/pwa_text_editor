@@ -18,7 +18,7 @@ The PWA Text Editor is a Progressive Web App that can be used by the user even i
 Either use the app in the browser or click install and follow the prompts to install locally
 
 ## Usage
-[Visit the deployed application here](hhttps://pwa-text-editor-123.herokuapp.com/)
+[Visit the deployed application here](https://pwa-text-editor-123.herokuapp.com/)
 
 ## Credits  
 
