@@ -20,6 +20,8 @@ Either use the app in the browser or click install and follow the prompts to ins
 ## Usage
 [Visit the deployed application here](https://pwa-text-editor-123.herokuapp.com/)
 
+![image of app](../pwa_text_editor/client/src/images/Screenshot%202023-04-25%20at%206.25.07%20PM.png)
+
 ## Credits  
 
 Thank you Meg Meyers (bootcamp tutor)
